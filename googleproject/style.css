@@ -1,0 +1,100 @@
+.center {
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(241, 240, 240);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: center;
+}
+
+.center-links {
+    margin: 0 auto; 
+    text-align:center
+}
+
+.container {
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 10px;
+    float: bottom;
+    position: relative;
+}
+
+#text {
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.container-searchbar {
+    width: 150px;
+    margin: 0 auto;
+    float: bottom;
+}
+
+.btn {
+    margin-left: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-decoration: none;
+    float: left;
+}
+
+.container-buttons {
+    margin-left: 600px;
+    padding-top: 10px;
+    width: 400px;
+    float: left;
+}
+
+.container-left {
+    margin-top: 5px;
+    width: 555px;
+    height: 100px;
+    float: left;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: rgb(151, 226, 218);
+}
+
+.container-middle {
+    margin-top: 5px;
+    width: 255px;
+    height: 100px;
+    float: left;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: rgb(134, 202, 193);
+}
+
+.container-right {
+    margin-top: 5px;
+    width: 555px;
+    height: 100px;
+    float: left;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: rgb(118, 177, 170);
+}
+
+.container-rightbutton {
+    margin-left: 195px;
+    padding-top: 5px;
+    width: 5px;
+    float: left;
+}
+
+.center-rightlink {
+    margin: 10px;
+    padding-left: 90px;
+    text-align: center;
+    float: left;
+}
